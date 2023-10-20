@@ -4,7 +4,7 @@
 <p>buka cmd</p>
 <p>ketik python</p>
 <p>print ("hello")</p>
-<p>print (saya sedang belajar python)</p>
+<p>print ("saya sedang belajar python")</p>
 
 ![gambar](screenshots/piton1.png)
 
@@ -22,12 +22,15 @@
 <p>a=input("masukan nilai a:")</p>
 <P>b=input("masukan nilai b:")</P>
 
+
 <p># cetak nilai variabel</p>
 <p>print("variabel a=",a)</p>
 <p>print("variabel b=",b)</p>
 
+
 <p># cetak hasil operasi kedua variabel dengan string format</p>
 <p>print("hasil penggabungan {}&{}={}".format(a,b,a+b))</p>
+
 
 <p># konversi nilai variabel</p>
 <p>a=int(a)</p>
